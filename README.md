@@ -248,13 +248,6 @@ Intelligent conversational interface for asset management queries.
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anup-khanal&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9&icon_color=60a5fa&border_color=30363d&border_radius=8"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anup-khanal&layout=compact&langs_count=8&theme=radical&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9&border_color=30363d&border_radius=8"/>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anup-khanal&theme=radical&background=0d1117&ring=60a5fa&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=60a5fa&border=30363d&stroke=30363d" alt="GitHub Streak" />
 </div>
 
