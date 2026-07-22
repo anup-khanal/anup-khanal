@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f35,50:2563eb,100:1a1f35&height=200&section=header&text=Anup%20Khanal&fontSize=60&fontColor=e2e8f0&animation=fadeIn&fontAlignY=35" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f35,50:2563eb,100:1a1f35&height=200&section=header&text=Anup%20Khanal&fontSize=60&fontColor=e2e8f0&animation=fadeIn&fontAlignY=35&fontAlign=50&desc=Principal%20Software%20Engineer&descSize=20&descAlignY=55" alt="Header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=60a5fa&background=080C1600&center=true&vCenter=true&width=940&lines=Principal+Software+Engineer+%7C+10%2B+Years;Building+AI-Powered+%26+Scalable+Solutions;Creator+of+AI+Dimag+%26+Pageonomics;Full-Stack+Developer+%7C+React+%2B+Spring+Boot" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lato&weight=500&size=24&duration=2800&pause=2000&color=60a5fa&background=080C1600&center=true&vCenter=true&width=940&lines=10%2B+Years+of+Full-Stack+Development;Building+AI-Powered+%26+Scalable+Solutions;Creator+of+AI+Dimag+%26+Pageonomics;React+%7C+Spring+Boot+%7C+TypeScript+%7C+Java" alt="Typing SVG" />
 </div>
 
 <br/>
