@@ -10,12 +10,21 @@
 
 <div align="center">
   
+  [![Website](https://img.shields.io/badge/Website-1a1f35?style=for-the-badge&logo=googlechrome&logoColor=60a5fa)](https://www.anupkhanal.info)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anup756)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anup-Khanal)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:comwiz756@gmail.com)
   [![AI Dimag](https://img.shields.io/badge/AI_Dimag-412991?style=for-the-badge&logo=openai&logoColor=white)](https://aidimag.com)
   [![Pageonomics](https://img.shields.io/badge/Pageonomics-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pageonomics.com)
   
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%92%B0_%2423M-Annual_Savings-2563eb?style=for-the-badge" alt="$23M Annual Savings" />
+  <img src="https://img.shields.io/badge/%F0%9F%8F%86_%24527M-Donations-7c3aed?style=for-the-badge" alt="$527M Donations" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%8A_%24275M-Sales-059669?style=for-the-badge" alt="$275M Sales" />
+  <img src="https://img.shields.io/badge/%F0%9F%97%84%EF%B8%8F_14M%2B-Records-0ea5e9?style=for-the-badge" alt="14M+ Records" />
 </div>
 
 <br/>
@@ -248,13 +257,20 @@ Intelligent conversational interface for asset management queries.
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anup-khanal&theme=radical&background=0d1117&ring=60a5fa&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=60a5fa&border=30363d&stroke=30363d" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=anup-khanal&show_icons=true&hide_border=true&hide_rank=true&bg_color=0f172a&title_color=e2e8f0&icon_color=94a3b8&text_color=94a3b8" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=anup-khanal&layout=compact&hide_border=true&bg_color=0f172a&title_color=e2e8f0&text_color=94a3b8" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anup-khanal&bg_color=0d1117&color=60a5fa&line=60a5fa&point=c9d1d9&area=true&hide_border=false&border_color=30363d" alt="Contribution Graph" />
+  <img src="https://streak-stats.demolab.com/?user=anup-khanal&theme=dark&hide_border=true&background=0F172A&ring=64748B&fire=94A3B8&currStreakNum=E2E8F0&sideNums=94A3B8&currStreakLabel=94A3B8&sideLabels=64748B&dates=64748B" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anup-khanal&bg_color=0f172a&color=94a3b8&line=64748b&point=cbd5e1&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 </div>
 
 ---
@@ -272,7 +288,7 @@ Intelligent conversational interface for asset management queries.
 ### 💡 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=nord&layout=socrates&animation=fade_in&quotesUrl=https://raw.githubusercontent.com/anup-khanal/anup-khanal/main/quotes.json" alt="Random Dev Quote" />
 </div>
 
 ---
@@ -281,7 +297,7 @@ Intelligent conversational interface for asset management queries.
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=anup-khanal&color=blueviolet&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=anup-khanal&color=0ea5e9&style=for-the-badge)
   
 </div>
 
