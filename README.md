@@ -285,10 +285,14 @@ Intelligent conversational interface for asset management queries.
 
 ---
 
-### 💡 Random Dev Quote
+### 💡 Dev Quote of the Moment
+
+<p align="center"><sub>A little craft wisdom — refreshes on every visit</sub></p>
 
 <div align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=nord&layout=socrates&animation=fade_in&quotesUrl=https://raw.githubusercontent.com/anup-khanal/anup-khanal/main/quotes.json" alt="Random Dev Quote" />
+  <a href="https://github.com/anup-khanal/anup-khanal/blob/main/quotes.json">
+    <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=algolia&layout=churchill&animation=fade_in&font=default&quotesUrl=https://raw.githubusercontent.com/anup-khanal/anup-khanal/main/quotes.json" width="800" alt="Dev Quote" />
+  </a>
 </div>
 
 ---
