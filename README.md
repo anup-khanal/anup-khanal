@@ -16,6 +16,7 @@
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:comwiz756@gmail.com)
   [![AI Dimag](https://img.shields.io/badge/AI_Dimag-412991?style=for-the-badge&logo=openai&logoColor=white)](https://aidimag.com)
   [![Pageonomics](https://img.shields.io/badge/Pageonomics-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pageonomics.com)
+  [![ShareFreeKeys](https://img.shields.io/badge/ShareFreeKeys-2563eb?style=for-the-badge&logo=steam&logoColor=white)](https://sharefreekeys.com)
   
 </div>
 
@@ -38,7 +39,7 @@
 const anup = {
     location: "Sterling, VA 🇺🇸",
     currentRole: "Principal Software Engineer",
-    sideProjects: ["AI Dimag - Verified Memory for AI Agents", "Pageonomics - Web Performance Tools"],
+    sideProjects: ["AI Dimag - Verified Memory for AI Agents", "Pageonomics - Web Performance Tools", "ShareFreeKeys - Community Digital Key Sharing"],
     experience: "10+ years",
     code: ["JavaScript", "TypeScript", "Java", "Python"],
     technologies: {
@@ -47,18 +48,19 @@ const anup = {
             styling: ["Styled-components", "TailwindCSS", "Shadcn", "Material-UI"],
         },
         backEnd: {
-            frameworks: ["Java Spring Boot", "Node.js", "RESTful APIs"],
+            frameworks: ["Java Spring Boot", "Node.js", "Fastify", "RESTful APIs"],
             databases: ["PostgreSQL", "MySQL", "Oracle Database", "SQLite"],
         },
         ai: ["OpenAI API", "Ollama", "Streamlit", "Supabase", "Vector Search"],
         devOps: ["AWS (S3, Lambda, CloudFront)", "Docker", "CI/CD", "nginx"],
-        tools: ["Git", "Vite", "Jest", "Cypress", "Storybook", "GraphQL", "MCP"],
+        tools: ["Git", "Vite", "Jest", "Cypress", "Storybook", "GraphQL", "MCP", "Prisma"],
         security: ["Keycloak", "Okta", "OAuth", "JWT", "SAML", "OpenID Connect"],
     },
     currentFocus: "Building AI memory systems & enterprise-scale platforms",
     achievements: [
         "Built AI Dimag - Verified Memory for AI Agents",
         "Built Pageonomics - 6-app monorepo for web performance",
+        "Built ShareFreeKeys - community key-sharing platform with Reddit Devvit integration",
         "Led modernization saving $23M annually",
         "Contributed to $527M in donations & $275M in sales",
         "Won 2 coding challenges for contract acquisition"
@@ -68,7 +70,7 @@ const anup = {
 };
 ```
 
-> **Experienced Software Engineer** with 10+ years of expertise in frontend and backend development. Creator of **AI Dimag** (verified memory for AI agents) and **Pageonomics** (web performance tools suite). Passionate about building AI-powered solutions and driving innovation in enterprise systems modernization.
+> **Experienced Software Engineer** with 10+ years of expertise in frontend and backend development. Creator of **AI Dimag** (verified memory for AI agents), **Pageonomics** (web performance tools suite), and **ShareFreeKeys** (community platform for donating and redeeming unused game keys with Karma). Passionate about building AI-powered solutions and driving innovation in enterprise systems modernization.
 
 ---
 
@@ -131,6 +133,22 @@ Translates Lighthouse metrics into **bandwidth costs**, **CDN expenses**, and **
 - Diff: [diff.pageonomics.com](https://diff.pageonomics.com)
 - Notes: [notes.pageonomics.com](https://notes.pageonomics.com)
 - QR: [qr.pageonomics.com](https://qr.pageonomics.com)
+
+---
+
+#### 🎮 ShareFreeKeys — Community Digital Key Sharing
+**Side Project** | [Website](https://sharefreekeys.com) | [GitHub](https://github.com/anup-khanal/sharefreekeys) | [Reddit](https://www.reddit.com/r/sharefreekeys/)
+
+Community platform where members donate unused Steam/Epic/GOG keys and redeem them with Karma points — no cash, no marketplace.
+
+**Key Features:**
+- 🔐 **Encrypted keys** - AES-256-GCM at rest; plaintext shown once at redeem
+- ⚖️ **Karma economy** - Price-derived karma costs, shop, badges, referral bonuses
+- 🛡️ **Moderation** - Human approval before listings go public
+- 📡 **Live claim toasts** - SSE broadcasts when keys are claimed
+- 🤖 **Reddit Devvit app** - Auto-announce approved listings to r/sharefreekeys
+
+**Tech Stack:** React 19, TypeScript, Vite, Tailwind CSS 4, Fastify, Prisma, MySQL, Devvit, Hostinger
 
 ---
 
@@ -321,6 +339,8 @@ Intelligent conversational interface for asset management queries.
   🚀 Full-stack development with React & Spring Boot
   
   **Check out [AI Dimag](https://aidimag.com) - Give your AI agents a verified memory!**
+  
+  **Or explore [ShareFreeKeys](https://sharefreekeys.com) - donate unused game keys and redeem with Karma in a moderated community.**
   
   **Feel free to reach out!** ☕
   
