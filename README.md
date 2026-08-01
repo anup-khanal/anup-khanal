@@ -14,7 +14,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anup756)
   [![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/anup-khanal)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:comwiz756@gmail.com)
-  [![AI Dimag](https://img.shields.io/badge/AI_Dimag-412991?style=for-the-badge&logo=openai&logoColor=white)](https://aidimag.com)
+  [![🧠 AI Dimag](https://img.shields.io/badge/%F0%9F%A7%A0_AI_Dimag-412991?style=for-the-badge&logoColor=white)](https://aidimag.com)
   [![Pageonomics](https://img.shields.io/badge/Pageonomics-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pageonomics.com)
   [![ShareFreeKeys](https://img.shields.io/badge/ShareFreeKeys-2563eb?style=for-the-badge&logo=steam&logoColor=white)](https://sharefreekeys.com)
   
