@@ -137,7 +137,7 @@ Translates Lighthouse metrics into **bandwidth costs**, **CDN expenses**, and **
 ---
 
 #### 🎮 ShareFreeKeys — Community Digital Key Sharing
-**Side Project** | [Website](https://sharefreekeys.com) | [GitHub](https://github.com/anup-khanal/sharefreekeys) | [Reddit](https://www.reddit.com/r/sharefreekeys/)
+**Side Project** | [Website](https://sharefreekeys.com) | [Reddit](https://www.reddit.com/r/sharefreekeys/)
 
 Community platform where members donate unused Steam/Epic/GOG keys and redeem them with Karma points — no cash, no marketplace.
 
