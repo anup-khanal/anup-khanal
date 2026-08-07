@@ -97,7 +97,7 @@ Persistent memory system for MCP-compatible AI agents (Claude, Cursor, Copilot, 
 npm install -g aidimag
 dim init && dim bootstrap && dim review
 ```
-
+[![npm downloads](https://img.shields.io/npm/dw/aidimag?style=for-the-badge&color=412991)](https://www.npmjs.com/package/aidimag)
 ---
 
 #### 📊 Pageonomics — Website Performance Budget Checker
