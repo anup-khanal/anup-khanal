@@ -37,7 +37,7 @@
 
 ```typescript
 const anup = {
-    location: "Sterling, VA 🇺🇸",
+    location: "Ashburn, VA 🇺🇸",
     currentRole: "Principal Software Engineer",
     sideProjects: ["AI Dimag - Verified Memory for AI Agents", "Pageonomics - Web Performance Tools", "ShareFreeKeys - Community Digital Key Sharing"],
     experience: "10+ years",
